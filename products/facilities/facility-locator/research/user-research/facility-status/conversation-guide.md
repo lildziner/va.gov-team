@@ -1,4 +1,4 @@
-# Conversation Guide for Moderated Card Sort - Facility Locator, Operating Status
+# Conversation Guide for Moderated Card Sort - Facility Locator, Operating Status.
 
 ## Moderator logistics
 
